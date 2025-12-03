@@ -29,7 +29,7 @@ This project was developed in collaboration with my friend during the **IBM Stat
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/UnbeatableBann/GuideAI.git
+git clone https://github.com/UnbeatableBann/GuideAI-Tourist-Assistant.git
 cd GuideAI
 ```  
 
@@ -146,7 +146,7 @@ This project is licensed under the **MIT License**.
 
 ## **Contact**  
 For any queries, feel free to reach out:  
-📧 Email: [your-email@example.com](mailto:shadabjamadaar4@gmail.com)  
+📧 Email: [shadabjamadar4@gmail.com](mailto:shadabjamadar4@gmail.com)  
 🌐 GitHub: [UnbeatableBann](https://github.com/UnbeatableBann)  
 
 ---
